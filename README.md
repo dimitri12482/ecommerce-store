@@ -3,6 +3,8 @@
 
 I build a fully functional eCommerce application using commerce.js as well as use Stripe for card transactions. 
 
+https://ecommerce-store-dimitri.netlify.app/
+
 <img width="1280" alt="Screenshot 2021-01-17 at 16 21 23" src="https://user-images.githubusercontent.com/65912918/106509830-024f8480-64c6-11eb-8d5f-5e108a5527f7.png">
 
 
